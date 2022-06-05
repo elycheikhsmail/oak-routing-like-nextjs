@@ -1,0 +1,4 @@
+supprimer les partie no utilise de ce template
+tester
+copier et coller le dans un nouveau dossier nommer read_backend_2
+et commencer ready backend by routing+test puis sqlite

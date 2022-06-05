@@ -1,0 +1,8 @@
+{
+  "importMap": "./import_map.json",
+  "tasks": {
+    "start": "deno run --allow-all --watch server.ts",
+    "ui": "deno run --allow-all  server_dev_ui.ts",
+    "open_in_browser": "deno run --allow-run  open_in_browser.ts"
+  }
+}
